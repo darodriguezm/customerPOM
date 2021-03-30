@@ -29,7 +29,9 @@ public class ResultadosBusquedaPage {
 	
 	public void SeleccionarProductoAleatorio() {
 		Random aleatorio = new Random();
-		WebElement articuloRandom = productosField.get(aleatorio.nextInt(productosField.size()));
+		int nextValueInt = aleatorio.nextInt(productosField.size()); 
+
+		WebElement articuloRandom = productosField.get(nextValueInt);
 		
 		articuloRandom.click();
 		driver.manage().timeouts().implicitlyWait(SodimacWebHelpers.waitTime, TimeUnit.SECONDS);
