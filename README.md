@@ -1,15 +1,15 @@
-# Proyecto de automatizaci髇
+# Proyecto de automatizaci贸n
 ## Selenium webdriver en java
 
 ## Detalles
 
-Proyecto de prueba funcional automatizada que realiza la validaci髇 del cuadro de detalles de un producto aleatorio dentro de una categor韆 particular definida en el escenario de prueba del script del proyecto.
+Proyecto de prueba funcional automatizada que realiza la validaci贸n del cuadro de detalles de un producto aleatorio dentro de una categor铆a particular definida en el escenario de prueba del script del proyecto.
 
 ## Portal utilizado:
 https://www.sodimac.cl/sodimac-cl/
 
-## Tecnolog韆s involucradas
-| Tecnolog韆 | versi髇 | url |
+## Tecnolog铆as involucradas
+| Tecnolog铆a | versi贸n | url |
 | ------ | ------ |------ |
 | Java | 1.8 |  |
 | Selenium | 4.14.0 |https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java|
@@ -20,13 +20,13 @@ https://www.sodimac.cl/sodimac-cl/
 |maven-surfire|2.22.2|https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin|
 |log4j|1.2.17|https://mvnrepository.com/artifact/log4j/log4j|
 
-> archivo [pom.xml](pom.xmllink) de la soluci髇
+> archivo [pom.xml](https://github.com/darodriguezm/customerPOM/blob/main/pom.xml) de la soluci贸n
 
 ## Requisitos
 Instalar cliente maven:
 [Apache Maven 3.6.3](https://maven.apache.org/download.cgi)
 
-## proceso de ejecuci髇
+## proceso de ejecuci贸n
 1. Descargar respositorio
-2. Ingresar a la ruta ra韟 del proyecto descargado y lanzar el comando:
+2. Ingresar a la ruta ra铆z del proyecto descargado y lanzar el comando:
 ```mvn test```
