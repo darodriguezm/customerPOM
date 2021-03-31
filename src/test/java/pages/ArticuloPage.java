@@ -10,11 +10,13 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
+import helpers.SodimacWebHelpers;
+
 public class ArticuloPage {
 	@FindBy(id = "accordion-product-description")
 	private WebElement descriptionField;
 
-	@FindBy(css = ".simple-table")
+	@FindBy(css = ".value.cell")
 	private List<WebElement> detallesField;
 
 	private WebDriver driver;
@@ -22,23 +24,29 @@ public class ArticuloPage {
 	public ArticuloPage(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
+		
+		SodimacWebHelpers.log(driver, "ArticuloPage - Constructor");
 	}
 
 	public void AssertNullFields() {
 		List<String> valores = new ArrayList<String>();
+		
+		detallesField.forEach((elementCell) -> {
+			String valor = elementCell.findElement(By.tagName("div")).getText();
+			valores.add(valor);
 
-		detallesField.forEach((detalleFila) -> {
-			String textoValor = detalleFila.findElement(By.cssSelector(".value")).getText();
-			valores.add(textoValor);
 		});
 		
+		SodimacWebHelpers.log(driver, "ArticuloPage.AssertNullField - \n" + String.join("\n", valores));
 		Assert.assertFalse(valores.contains(""));
 
 	}
 
 	public void AssertPage() {
 		String descriptionText = "Descripción";
-
-		Assert.assertEquals(descriptionText, descriptionField.getText());
+		String descriptionFieldText = descriptionField.getText();
+		
+		SodimacWebHelpers.log(driver, "ArticuloPage.AssertPage - valor esperado: " + descriptionText + ", valor actual: " + descriptionFieldText);
+		Assert.assertEquals(descriptionText, descriptionFieldText);
 	}
 }

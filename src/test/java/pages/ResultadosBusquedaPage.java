@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -25,6 +26,8 @@ public class ResultadosBusquedaPage {
 	public ResultadosBusquedaPage(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
+		
+		SodimacWebHelpers.log(driver, "ResultadosBusquedaPage - Constructor: ");
 	}
 	
 	public void SeleccionarProductoAleatorio() {
@@ -33,13 +36,17 @@ public class ResultadosBusquedaPage {
 
 		WebElement articuloRandom = productosField.get(nextValueInt);
 		
-		articuloRandom.click();
+		SodimacWebHelpers.log(driver, "ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: \n" + articuloRandom.getText());
+		
+		articuloRandom.findElement(By.cssSelector(".product-title")).click();
 		driver.manage().timeouts().implicitlyWait(SodimacWebHelpers.waitTime, TimeUnit.SECONDS);
 	}
 	
 	public void AssertPage(String articulo) {
-		String ResultadoBusquedaText = "Resultados de búsqueda para \"" + articulo + "\"";
-
-		Assert.assertEquals(ResultadoBusquedaText, resultadoBusquedaLabel.getText());
+		String resultadoBusquedaText = "Resultados de búsqueda para \"" + articulo + "\"";
+		String resultadoBusquedaLabelText = resultadoBusquedaLabel.getText();
+		
+		SodimacWebHelpers.log(driver, "ResultadoBusquedaPage.AssertPage - valor esperado: " + resultadoBusquedaText + ", valor actual: " + resultadoBusquedaLabelText);
+		Assert.assertEquals(resultadoBusquedaText, resultadoBusquedaLabelText);
 	}
 }

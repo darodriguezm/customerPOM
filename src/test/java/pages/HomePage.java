@@ -19,9 +19,13 @@ public class HomePage {
 	public HomePage(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
+		
+		SodimacWebHelpers.log(driver, "HomePage - Constructor: ");
 	}
 	
 	public void realizarBusqueda(String producto) {
+		SodimacWebHelpers.log(driver, "HomePage.realizarBusqueda - Buscando producto: " + producto);
+		
 		busquedaField.sendKeys(producto);
 		busquedaField.sendKeys(Keys.ENTER);
 		driver.manage().timeouts().implicitlyWait(SodimacWebHelpers.waitTime, TimeUnit.SECONDS);

@@ -1,0 +1,836 @@
+14:17:33.539 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+14:17:33.605 [main] - Título de página: Sodimac.cl | CMR Days
+14:17:33.605 [main] - Inicializando ChromeDriver
+14:17:33.941 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+14:17:33.950 [main] - Título de página: Sodimac.cl | CMR Days
+14:17:33.951 [main] - HomePage - Constructor: 
+14:17:33.957 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+14:17:33.968 [main] - Título de página: Sodimac.cl | CMR Days
+14:17:33.969 [main] - HomePage.realizarBusqueda - Buscando producto: resposera
+14:17:37.339 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+14:17:37.442 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+14:17:37.443 [main] - ResultadosBusquedaPage - Constructor: 
+14:17:37.794 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+14:17:37.800 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+14:17:37.801 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "resposera", valor actual: Resultados de búsqueda para "resposera"
+14:17:37.814 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+14:17:37.823 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+14:17:37.824 [main] - ResultadosBusquedaPage - Constructor: 
+14:17:38.018 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+14:17:38.024 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+14:17:38.024 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Reyplast
+Reposera de resina cabo blanco
+(28)
+$39.990C/U
+Agregar al carro
+14:17:43.498 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2910179/Reposera-de-resina-cabo-blanco/2910179
+14:17:43.565 [main] - Título de página: Reposera de resina cabo blanco - Sodimac.cl
+14:17:43.565 [main] - ArticuloPage - Constructor
+14:17:43.623 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2910179/Reposera-de-resina-cabo-blanco/2910179
+14:17:43.628 [main] - Título de página: Reposera de resina cabo blanco - Sodimac.cl
+14:17:43.628 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+14:17:43.634 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2910179/Reposera-de-resina-cabo-blanco/2910179
+14:17:43.640 [main] - Título de página: Reposera de resina cabo blanco - Sodimac.cl
+14:17:43.640 [main] - ArticuloPage - Constructor
+14:17:43.793 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2910179/Reposera-de-resina-cabo-blanco/2910179
+14:17:43.798 [main] - Título de página: Reposera de resina cabo blanco - Sodimac.cl
+14:17:43.798 [main] - ArticuloPage.AssertNullField - (title: Marca, valor: Reyplast)
+15:59:14.319 [main] - Inicializando ChromeDriver
+15:59:15.100 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+15:59:15.155 [main] - Título de página: Sodimac.cl | CMR Days
+15:59:15.215 [main] - HomePage - Constructor: 
+15:59:15.302 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+15:59:15.570 [main] - Título de página: Sodimac.cl | CMR Days
+15:59:15.570 [main] - HomePage.realizarBusqueda - Buscando producto: resposera
+15:59:15.576 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+15:59:15.588 [main] - Título de página: Sodimac.cl | CMR Days
+15:59:19.978 [main] - ResultadosBusquedaPage - Constructor: 
+15:59:20.107 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+15:59:20.180 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+15:59:20.500 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "resposera", valor actual: Resultados de búsqueda para "resposera"
+15:59:20.509 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+15:59:20.515 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+15:59:20.518 [main] - ResultadosBusquedaPage - Constructor: 
+15:59:20.524 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+15:59:20.529 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+15:59:20.681 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Homy
+Reposera con ruedas, madera Acacia
+(1)
+$89.990C/U
+Normal:$129.990C/U
+Agregar al carro
+15:59:20.698 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+15:59:20.704 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+15:59:25.573 [main] - ArticuloPage - Constructor
+15:59:25.607 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/3518434/Reposera-con-ruedas-madera-Acacia/3518434
+15:59:25.640 [main] - Título de página: Reposera con ruedas, madera Acacia - Sodimac.cl
+15:59:25.809 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+15:59:25.813 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/3518434/Reposera-con-ruedas-madera-Acacia/3518434
+15:59:25.820 [main] - Título de página: Reposera con ruedas, madera Acacia - Sodimac.cl
+15:59:25.821 [main] - ArticuloPage - Constructor
+15:59:25.825 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/3518434/Reposera-con-ruedas-madera-Acacia/3518434
+15:59:25.829 [main] - Título de página: Reposera con ruedas, madera Acacia - Sodimac.cl
+15:59:25.941 [main] - ArticuloPage.AssertNullField - (title: Marca, valor: Homy)
+15:59:25.951 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/3518434/Reposera-con-ruedas-madera-Acacia/3518434
+15:59:25.964 [main] - Título de página: Reposera con ruedas, madera Acacia - Sodimac.cl
+16:10:33.673 [main] - Inicializando ChromeDriver
+16:10:34.438 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:10:34.512 [main] - Título de página: Sodimac.cl | CMR Days
+16:10:34.567 [main] - HomePage - Constructor: 
+16:10:34.890 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:10:34.901 [main] - Título de página: Sodimac.cl | CMR Days
+16:10:34.901 [main] - HomePage.realizarBusqueda - Buscando producto: resposera
+16:10:34.907 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:10:34.920 [main] - Título de página: Sodimac.cl | CMR Days
+16:10:39.026 [main] - ResultadosBusquedaPage - Constructor: 
+16:10:39.307 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:10:39.628 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:10:39.707 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "resposera", valor actual: Resultados de búsqueda para "resposera"
+16:10:39.714 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:10:39.731 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:10:39.735 [main] - ResultadosBusquedaPage - Constructor: 
+16:10:39.740 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:10:39.746 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:10:39.921 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Grupo Links
+Reposera Negra
+(0)
+$159.990C/U
+Normal:$189.990C/U
+Agregar al carro
+16:10:40.078 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:10:40.085 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:10:44.074 [main] - ArticuloPage - Constructor
+16:10:44.106 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2764156/Reposera-Negra/2764156
+16:10:44.252 [main] - Título de página: Reposera Negra - Sodimac.cl
+16:10:44.318 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+16:10:44.324 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2764156/Reposera-Negra/2764156
+16:10:44.329 [main] - Título de página: Reposera Negra - Sodimac.cl
+16:10:44.329 [main] - ArticuloPage - Constructor
+16:10:44.335 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2764156/Reposera-Negra/2764156
+16:10:44.340 [main] - Título de página: Reposera Negra - Sodimac.cl
+16:10:44.467 [main] - ArticuloPage.AssertNullField - 
+[(title: Marca, valor: Grupo Links)]
+16:10:44.473 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2764156/Reposera-Negra/2764156
+16:10:44.478 [main] - Título de página: Reposera Negra - Sodimac.cl
+16:13:50.724 [main] - Inicializando ChromeDriver
+16:13:51.353 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:13:51.384 [main] - Título de página: Sodimac.cl | CMR Days
+16:13:51.449 [main] - HomePage - Constructor: 
+16:13:51.541 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:13:51.549 [main] - Título de página: Sodimac.cl | CMR Days
+16:13:51.549 [main] - HomePage.realizarBusqueda - Buscando producto: resposera
+16:13:51.559 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:13:51.840 [main] - Título de página: Sodimac.cl | CMR Days
+16:13:55.998 [main] - ResultadosBusquedaPage - Constructor: 
+16:13:56.137 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:13:56.195 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:13:56.552 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "resposera", valor actual: Resultados de búsqueda para "resposera"
+16:13:56.563 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:13:56.569 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:13:56.572 [main] - ResultadosBusquedaPage - Constructor: 
+16:13:56.582 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:13:56.587 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:13:56.744 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Grupo Links
+Reposera Negra
+(0)
+$159.990C/U
+Normal:$189.990C/U
+Agregar al carro
+16:13:56.752 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:13:56.757 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:14:00.642 [main] - ArticuloPage - Constructor
+16:14:00.673 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2764156/Reposera-Negra/2764156
+16:14:00.686 [main] - Título de página: Reposera Negra - Sodimac.cl
+16:14:00.940 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+16:14:00.944 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2764156/Reposera-Negra/2764156
+16:14:00.949 [main] - Título de página: Reposera Negra - Sodimac.cl
+16:14:00.950 [main] - ArticuloPage - Constructor
+16:14:00.957 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2764156/Reposera-Negra/2764156
+16:14:00.961 [main] - Título de página: Reposera Negra - Sodimac.cl
+16:14:01.088 [main] - ArticuloPage.AssertNullField - 
+[(title: Marca, valor: Grupo Links)]
+16:14:01.092 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2764156/Reposera-Negra/2764156
+16:14:01.098 [main] - Título de página: Reposera Negra - Sodimac.cl
+16:20:07.734 [main] - Inicializando ChromeDriver
+16:20:08.184 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:20:08.196 [main] - Título de página: Sodimac.cl | CMR Days
+16:20:08.241 [main] - HomePage - Constructor: 
+16:20:08.292 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:20:08.300 [main] - Título de página: Sodimac.cl | CMR Days
+16:20:08.300 [main] - HomePage.realizarBusqueda - Buscando producto: resposera
+16:20:08.308 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:20:09.083 [main] - Título de página: Sodimac.cl | CMR Days
+16:20:13.429 [main] - ResultadosBusquedaPage - Constructor: 
+16:20:13.627 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:20:13.710 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:20:14.091 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "resposera", valor actual: Resultados de búsqueda para "resposera"
+16:20:14.099 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:20:14.106 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:20:14.110 [main] - ResultadosBusquedaPage - Constructor: 
+16:20:14.116 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:20:14.124 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:20:14.294 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Keter
+Juego de reposeras + mesa gris pacific sun
+Temporalmente sin stock
+(0)
+Ver producto
+16:20:14.348 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:20:14.355 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:20:15.453 [main] - ArticuloPage - Constructor
+16:20:15.742 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:20:15.907 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:23:21.292 [main] - Inicializando ChromeDriver
+16:23:22.604 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:23:22.743 [main] - Título de página: Sodimac.cl | CMR Days
+16:23:22.826 [main] - HomePage - Constructor: 
+16:23:23.383 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:23:23.391 [main] - Título de página: Sodimac.cl | CMR Days
+16:23:23.391 [main] - HomePage.realizarBusqueda - Buscando producto: resposera
+16:23:23.399 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:23:23.414 [main] - Título de página: Sodimac.cl | CMR Days
+16:23:28.769 [main] - ResultadosBusquedaPage - Constructor: 
+16:23:29.040 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:23:29.208 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:23:29.835 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "resposera", valor actual: Resultados de búsqueda para "resposera"
+16:23:29.876 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:23:30.122 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:23:30.127 [main] - ResultadosBusquedaPage - Constructor: 
+16:23:30.139 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:23:30.149 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:23:30.611 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Mascotatop
+Reposera estilo pallet 180x50x70 cm negro
+(0)
+$144.990C/U
+Agregar al carro
+16:23:30.712 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:23:31.112 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:23:32.045 [main] - ArticuloPage - Constructor
+16:23:32.059 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:23:32.075 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:24:17.808 [main] - Inicializando ChromeDriver
+16:24:18.714 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:24:18.790 [main] - Título de página: Sodimac.cl | CMR Days
+16:24:18.858 [main] - HomePage - Constructor: 
+16:24:18.950 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:24:18.960 [main] - Título de página: Sodimac.cl | CMR Days
+16:24:18.960 [main] - HomePage.realizarBusqueda - Buscando producto: resposera
+16:24:19.204 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:24:19.221 [main] - Título de página: Sodimac.cl | CMR Days
+16:24:22.917 [main] - ResultadosBusquedaPage - Constructor: 
+16:24:23.036 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:24:23.129 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:24:23.462 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "resposera", valor actual: Resultados de búsqueda para "resposera"
+16:24:23.472 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:24:23.479 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:24:23.484 [main] - ResultadosBusquedaPage - Constructor: 
+16:24:23.489 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:24:23.495 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:24:23.620 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Keter
+Juego de reposeras + mesa gris pacific sun
+Temporalmente sin stock
+(0)
+Ver producto
+16:24:23.627 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:24:23.634 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:24:23.975 [main] - ArticuloPage - Constructor
+16:24:23.981 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:24:23.986 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:25:04.361 [main] - Inicializando ChromeDriver
+16:25:05.315 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:25:05.354 [main] - Título de página: Sodimac.cl | CMR Days
+16:25:05.416 [main] - HomePage - Constructor: 
+16:25:05.781 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:25:05.827 [main] - Título de página: Sodimac.cl | CMR Days
+16:25:05.827 [main] - HomePage.realizarBusqueda - Buscando producto: resposera
+16:25:05.833 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:25:05.865 [main] - Título de página: Sodimac.cl | CMR Days
+16:25:09.602 [main] - ResultadosBusquedaPage - Constructor: 
+16:25:09.944 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:25:10.384 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:25:10.437 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "resposera", valor actual: Resultados de búsqueda para "resposera"
+16:25:10.444 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:25:10.452 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:25:10.456 [main] - ResultadosBusquedaPage - Constructor: 
+16:25:10.466 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:25:10.472 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:25:10.668 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Mascotatop
+Reposera estilo pallet 180x50x70 cm blanco
+(0)
+$144.990C/U
+Agregar al carro
+16:25:10.677 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:25:10.685 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:25:11.818 [main] - ArticuloPage - Constructor
+16:25:11.839 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=resposera
+16:25:11.847 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:27:03.099 [main] - Inicializando ChromeDriver
+16:27:03.543 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:27:03.558 [main] - Título de página: Sodimac.cl | CMR Days
+16:27:03.609 [main] - HomePage - Constructor: 
+16:27:03.645 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:27:03.659 [main] - Título de página: Sodimac.cl | CMR Days
+16:27:03.659 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+16:27:03.666 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:27:03.952 [main] - Título de página: Sodimac.cl | CMR Days
+16:27:08.957 [main] - ResultadosBusquedaPage - Constructor: 
+16:27:09.170 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:27:09.246 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:27:09.719 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+16:27:09.727 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:27:09.735 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:27:09.741 [main] - ResultadosBusquedaPage - Constructor: 
+16:27:09.795 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:27:09.803 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:27:09.983 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+BAHCO
+Martillo Bola 32 oz
+(0)
+$13.990C/U
+Agregar al carro
+16:27:09.998 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:27:10.048 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:27:10.514 [main] - ArticuloPage - Constructor
+16:27:10.614 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:27:10.623 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:28:07.215 [main] - Inicializando ChromeDriver
+16:28:08.191 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:28:08.278 [main] - Título de página: Sodimac.cl | CMR Days
+16:28:08.340 [main] - HomePage - Constructor: 
+16:28:08.390 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:28:08.397 [main] - Título de página: Sodimac.cl | CMR Days
+16:28:08.398 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+16:28:08.658 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:28:08.672 [main] - Título de página: Sodimac.cl | CMR Days
+16:28:12.332 [main] - ResultadosBusquedaPage - Constructor: 
+16:28:12.489 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:28:12.604 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:28:12.989 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+16:28:12.995 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:28:13.001 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:28:13.005 [main] - ResultadosBusquedaPage - Constructor: 
+16:28:13.012 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:28:13.018 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:28:13.160 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Redline
+Martillo tapicero 5 Oz acero
+(4)
+$4.890C/U
+Agregar al carro
+16:28:13.188 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:28:13.193 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:28:13.586 [main] - ArticuloPage - Constructor
+16:28:13.605 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:28:13.650 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:34:06.474 [main] - Inicializando ChromeDriver
+16:34:07.295 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:34:07.371 [main] - Título de página: Sodimac.cl | CMR Days
+16:34:07.425 [main] - HomePage - Constructor: 
+16:34:07.742 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:34:07.752 [main] - Título de página: Sodimac.cl | CMR Days
+16:34:07.752 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+16:34:07.759 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:34:07.773 [main] - Título de página: Sodimac.cl | CMR Days
+16:34:11.988 [main] - ResultadosBusquedaPage - Constructor: 
+16:34:12.203 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:34:12.551 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:34:12.633 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+16:34:12.638 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:34:12.643 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:34:12.647 [main] - ResultadosBusquedaPage - Constructor: 
+16:34:12.652 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:34:12.657 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:34:12.784 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Redline
+Martillo carpintero 24 Oz acero
+(7)
+$9.646C/U
+Agregar al carro
+16:34:12.820 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:34:12.825 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:36:28.284 [main] - Inicializando ChromeDriver
+16:36:28.653 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:36:28.680 [main] - Título de página: Sodimac.cl | CMR Days
+16:36:28.740 [main] - HomePage - Constructor: 
+16:36:28.793 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:36:28.802 [main] - Título de página: Sodimac.cl | CMR Days
+16:36:28.802 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+16:36:28.809 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:36:29.563 [main] - Título de página: Sodimac.cl | CMR Days
+16:36:33.741 [main] - ResultadosBusquedaPage - Constructor: 
+16:36:33.979 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:36:34.083 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:36:34.571 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+16:36:34.624 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:36:34.634 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:36:34.639 [main] - ResultadosBusquedaPage - Constructor: 
+16:36:34.646 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:36:34.653 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:36:34.902 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Redline
+Martillo bola 12 Oz acero
+(1)
+$5.190C/U
+Agregar al carro
+16:36:34.912 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:36:34.919 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:38:46.321 [main] - Inicializando ChromeDriver
+16:38:47.039 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:38:47.098 [main] - Título de página: Sodimac.cl | CMR Days
+16:38:47.151 [main] - HomePage - Constructor: 
+16:38:47.439 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:38:47.446 [main] - Título de página: Sodimac.cl | CMR Days
+16:38:47.446 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+16:38:47.452 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:38:47.462 [main] - Título de página: Sodimac.cl | CMR Days
+16:38:52.014 [main] - ResultadosBusquedaPage - Constructor: 
+16:38:52.136 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:38:52.217 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:38:52.626 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+16:38:52.633 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:38:52.640 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:38:52.643 [main] - ResultadosBusquedaPage - Constructor: 
+16:38:52.649 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:38:52.656 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:38:52.828 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Stanley
+Martillo básico mango madera 20 oz
+(6)
+$5.990C/U
+Agregar al carro
+16:38:52.869 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:38:52.876 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:39:07.271 [main] - ArticuloPage - Constructor
+16:39:07.375 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/5432111/Martillo-basico-mango-madera-20-oz/5432111
+16:39:07.407 [main] - Título de página: Martillo básico mango madera 20 oz - Sodimac.cl
+16:39:07.600 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+16:39:07.606 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/5432111/Martillo-basico-mango-madera-20-oz/5432111
+16:39:07.611 [main] - Título de página: Martillo básico mango madera 20 oz - Sodimac.cl
+16:39:07.612 [main] - ArticuloPage - Constructor
+16:39:07.617 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/5432111/Martillo-basico-mango-madera-20-oz/5432111
+16:39:07.623 [main] - Título de página: Martillo básico mango madera 20 oz - Sodimac.cl
+16:39:07.740 [main] - ArticuloPage.AssertNullField - 
+[(title: Marca, valor: Stanley)]
+16:39:07.748 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/5432111/Martillo-basico-mango-madera-20-oz/5432111
+16:39:07.752 [main] - Título de página: Martillo básico mango madera 20 oz - Sodimac.cl
+16:44:17.220 [main] - Inicializando ChromeDriver
+16:44:18.050 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:44:18.089 [main] - Título de página: Sodimac.cl | CMR Days
+16:44:18.153 [main] - HomePage - Constructor: 
+16:44:18.494 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:44:18.511 [main] - Título de página: Sodimac.cl | CMR Days
+16:44:18.511 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+16:44:18.517 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:44:18.532 [main] - Título de página: Sodimac.cl | CMR Days
+16:44:22.677 [main] - ResultadosBusquedaPage - Constructor: 
+16:44:22.851 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:44:22.966 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:44:23.399 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+16:44:23.405 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:44:23.412 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:44:23.415 [main] - ResultadosBusquedaPage - Constructor: 
+16:44:23.421 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:44:23.428 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:44:23.612 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Karson
+Martillo carpintero 12 Oz acero
+(11)
+$4.490C/U
+Agregar al carro
+16:44:23.626 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:44:23.632 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:44:24.545 [main] - ArticuloPage - Constructor
+16:44:24.706 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:44:24.755 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:46:50.113 [main] - Inicializando ChromeDriver
+16:46:50.726 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:46:50.767 [main] - Título de página: Sodimac.cl | CMR Days
+16:46:50.819 [main] - HomePage - Constructor: 
+16:46:50.838 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:46:51.130 [main] - Título de página: Sodimac.cl | CMR Days
+16:46:51.130 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+16:46:51.138 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:46:51.152 [main] - Título de página: Sodimac.cl | CMR Days
+16:46:54.851 [main] - ResultadosBusquedaPage - Constructor: 
+16:46:55.161 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:46:55.510 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:46:55.589 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+16:46:55.595 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:46:55.601 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:46:55.605 [main] - ResultadosBusquedaPage - Constructor: 
+16:46:55.610 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:46:55.616 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:46:55.794 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Redline
+Martillo carpintero 8 Oz acero
+(5)
+$5.590C/U
+Ver producto
+16:46:55.809 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:46:55.814 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:51:35.572 [main] - Inicializando ChromeDriver
+16:51:36.609 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:51:36.691 [main] - Título de página: Sodimac.cl | CMR Days
+16:51:36.743 [main] - HomePage - Constructor: 
+16:51:36.807 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:51:36.815 [main] - Título de página: Sodimac.cl | CMR Days
+16:51:36.816 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+16:51:36.821 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:51:37.091 [main] - Título de página: Sodimac.cl | CMR Days
+16:51:41.022 [main] - ResultadosBusquedaPage - Constructor: 
+16:51:41.258 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:51:41.598 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:51:41.680 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+16:51:41.687 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:51:41.692 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:51:41.694 [main] - ResultadosBusquedaPage - Constructor: 
+16:51:41.700 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:51:41.704 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:51:41.838 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Ubermann
+Martillo carpintero, 25 Oz
+(7)
+$14.510C/U
+Agregar al carro
+16:51:41.867 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:51:41.871 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:51:42.248 [main] - ArticuloPage - Constructor
+16:51:42.255 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:51:42.259 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:54:16.832 [main] - Inicializando ChromeDriver
+16:54:17.169 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:54:17.220 [main] - Título de página: Sodimac.cl | CMR Days
+16:54:17.266 [main] - HomePage - Constructor: 
+16:54:17.494 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:54:17.500 [main] - Título de página: Sodimac.cl | CMR Days
+16:54:17.500 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+16:54:17.504 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+16:54:17.515 [main] - Título de página: Sodimac.cl | CMR Days
+16:54:22.835 [main] - ResultadosBusquedaPage - Constructor: 
+16:54:22.981 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:54:23.068 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:54:23.426 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+16:54:23.432 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:54:23.439 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:54:23.443 [main] - ResultadosBusquedaPage - Constructor: 
+16:54:23.449 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:54:23.455 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:54:23.616 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Redline
+Martillo carpintero 16 Oz acero
+(21)
+$6.290C/U
+Agregar al carro
+16:54:23.661 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+16:54:23.667 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+16:54:46.082 [main] - ArticuloPage - Constructor
+16:54:46.164 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127256/Martillo-carpintero-16-Oz-acero/127256
+16:54:46.168 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+16:54:46.203 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+16:54:46.207 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127256/Martillo-carpintero-16-Oz-acero/127256
+16:54:46.211 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+16:54:46.212 [main] - ArticuloPage - Constructor
+16:54:46.216 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127256/Martillo-carpintero-16-Oz-acero/127256
+16:54:46.220 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+16:54:46.530 [main] - ArticuloPage.AssertNullField - 
+[(title: Marca, valor: Redline)]
+16:54:46.536 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127256/Martillo-carpintero-16-Oz-acero/127256
+16:54:46.541 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+17:01:27.548 [main] - Inicializando ChromeDriver
+17:01:28.226 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:01:28.305 [main] - Título de página: Sodimac.cl | CMR Days
+17:01:28.352 [main] - HomePage - Constructor: 
+17:01:28.591 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:01:28.601 [main] - Título de página: Sodimac.cl | CMR Days
+17:01:28.601 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+17:01:28.608 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:01:28.621 [main] - Título de página: Sodimac.cl | CMR Days
+17:01:32.602 [main] - ResultadosBusquedaPage - Constructor: 
+17:01:32.744 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:01:32.830 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:01:33.162 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+17:01:33.168 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:01:33.177 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:01:33.180 [main] - ResultadosBusquedaPage - Constructor: 
+17:01:33.186 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:01:33.192 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:01:33.331 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: Comparar
+Karson
+Martillo carpintero fibra de vidrio 16 Oz
+(7)
+$3.490C/U
+Agregar al carro
+17:01:33.341 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:01:33.356 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:01:37.871 [main] - ArticuloPage - Constructor
+17:01:37.888 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/403905X/Martillo-carpintero-fibra-de-vidrio-16-Oz/403905X
+17:01:37.958 [main] - Título de página: Martillo carpintero fibra de vidrio 16 Oz - Sodimac.cl
+17:01:38.076 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+17:01:38.081 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/403905X/Martillo-carpintero-fibra-de-vidrio-16-Oz/403905X
+17:01:38.087 [main] - Título de página: Martillo carpintero fibra de vidrio 16 Oz - Sodimac.cl
+17:01:38.088 [main] - ArticuloPage - Constructor
+17:01:38.095 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/403905X/Martillo-carpintero-fibra-de-vidrio-16-Oz/403905X
+17:01:38.100 [main] - Título de página: Martillo carpintero fibra de vidrio 16 Oz - Sodimac.cl
+17:01:38.705 [main] - ArticuloPage.AssertNullField - 
+Karson
+13 cm
+33 cm
+0.13 cm
+16 oz
+Uña
+Acero
+Amateur
+3 meses
+Fibra de vidrio
+Metal, fibra de vidrio y goma
+Martillos carpintero
+Martillos y Combos
+San Miguel-Huechuraba-Ñuble-La Reina-Cerrillos
+17:01:38.711 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/403905X/Martillo-carpintero-fibra-de-vidrio-16-Oz/403905X
+17:01:38.716 [main] - Título de página: Martillo carpintero fibra de vidrio 16 Oz - Sodimac.cl
+17:05:16.642 [main] - Inicializando ChromeDriver
+17:05:17.045 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:05:17.085 [main] - Título de página: Sodimac.cl | CMR Days
+17:05:17.130 [main] - HomePage - Constructor: 
+17:05:17.144 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:05:17.158 [main] - Título de página: Sodimac.cl | CMR Days
+17:05:17.158 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+17:05:17.939 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:05:17.952 [main] - Título de página: Sodimac.cl | CMR Days
+17:05:22.851 [main] - ResultadosBusquedaPage - Constructor: 
+17:05:23.264 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:05:23.709 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:05:23.821 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+17:05:23.834 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:05:23.843 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:05:23.846 [main] - ResultadosBusquedaPage - Constructor: 
+17:05:23.852 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:05:23.862 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:05:24.071 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Redline
+Martillo carpintero 8 Oz acero
+(5)
+$5.590C/U
+Ver producto
+17:05:24.086 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:05:24.099 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:05:24.842 [main] - ArticuloPage - Constructor
+17:05:24.849 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:05:24.855 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:08:57.718 [main] - Inicializando ChromeDriver
+17:08:58.597 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:08:58.682 [main] - Título de página: Sodimac.cl | CMR Days
+17:08:58.737 [main] - HomePage - Constructor: 
+17:08:59.092 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:08:59.105 [main] - Título de página: Sodimac.cl | CMR Days
+17:08:59.105 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+17:08:59.119 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:08:59.146 [main] - Título de página: Sodimac.cl | CMR Days
+17:09:03.254 [main] - ResultadosBusquedaPage - Constructor: 
+17:09:03.393 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:09:03.489 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:09:03.820 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+17:09:03.829 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:09:03.835 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:09:03.838 [main] - ResultadosBusquedaPage - Constructor: 
+17:09:03.843 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:09:03.849 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:09:04.003 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Redline
+Martillo tapicero 5 Oz acero
+(4)
+$4.890C/U
+Agregar al carro
+17:09:04.043 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:09:04.048 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:09:04.410 [main] - ArticuloPage - Constructor
+17:09:04.433 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:09:04.650 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:10:48.315 [main] - Inicializando ChromeDriver
+17:10:48.681 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:10:48.691 [main] - Título de página: Sodimac.cl | CMR Days
+17:10:48.745 [main] - HomePage - Constructor: 
+17:10:49.284 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:10:49.594 [main] - Título de página: Sodimac.cl | CMR Days
+17:10:49.594 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+17:10:49.613 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:10:49.628 [main] - Título de página: Sodimac.cl | CMR Days
+17:10:52.870 [main] - ResultadosBusquedaPage - Constructor: 
+17:10:53.016 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:10:53.113 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:10:53.439 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+17:10:53.446 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:10:53.452 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:10:53.455 [main] - ResultadosBusquedaPage - Constructor: 
+17:10:53.462 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:10:53.467 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:10:53.609 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+BAHCO
+Martillo Bola 16 oz
+(0)
+$10.990C/U
+Agregar al carro
+17:10:53.616 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:10:53.621 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:10:53.962 [main] - ArticuloPage - Constructor
+17:10:54.020 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:10:54.031 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:12:30.025 [main] - Inicializando ChromeDriver
+17:12:30.949 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:12:31.001 [main] - Título de página: Sodimac.cl | CMR Days
+17:12:31.061 [main] - HomePage - Constructor: 
+17:12:31.221 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:12:31.229 [main] - Título de página: Sodimac.cl | CMR Days
+17:12:31.229 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+17:12:31.237 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:12:31.566 [main] - Título de página: Sodimac.cl | CMR Days
+17:12:36.400 [main] - ResultadosBusquedaPage - Constructor: 
+17:12:36.566 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:12:36.739 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:12:37.349 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+17:12:37.356 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:12:37.370 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:12:37.375 [main] - ResultadosBusquedaPage - Constructor: 
+17:12:37.401 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:12:37.453 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:12:37.736 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Redline
+Martillo carpintero 16 Oz acero
+(21)
+$6.290C/U
+Agregar al carro
+17:12:37.744 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:12:37.751 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:12:37.948 [main] - ArticuloPage - Constructor
+17:12:37.953 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:12:37.958 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:14:13.451 [main] - Inicializando ChromeDriver
+17:14:14.286 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:14:14.386 [main] - Título de página: Sodimac.cl | CMR Days
+17:14:14.436 [main] - HomePage - Constructor: 
+17:14:14.784 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:14:14.805 [main] - Título de página: Sodimac.cl | CMR Days
+17:14:14.805 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+17:14:14.831 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:14:14.846 [main] - Título de página: Sodimac.cl | CMR Days
+17:14:17.962 [main] - ResultadosBusquedaPage - Constructor: 
+17:14:18.097 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:14:18.174 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:14:18.508 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+17:14:18.516 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:14:18.522 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:14:18.525 [main] - ResultadosBusquedaPage - Constructor: 
+17:14:18.531 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:14:18.536 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:14:18.668 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Coofix Tools
+Martillo rotativo 850W
+(0)
+$84.990C/U
+Agregar al carro
+17:14:18.677 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:14:18.708 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:14:22.974 [main] - ArticuloPage - Constructor
+17:14:23.013 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/647179X/Martillo-rotativo-850W/647179X
+17:14:23.165 [main] - Título de página: Martillo rotativo 850W - Sodimac.cl
+17:15:41.756 [main] - Inicializando ChromeDriver
+17:15:42.716 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:15:42.822 [main] - Título de página: Sodimac.cl | CMR Days
+17:15:42.883 [main] - HomePage - Constructor: 
+17:15:42.897 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:15:42.906 [main] - Título de página: Sodimac.cl | CMR Days
+17:15:42.906 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+17:15:43.236 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:15:43.255 [main] - Título de página: Sodimac.cl | CMR Days
+17:15:47.441 [main] - ResultadosBusquedaPage - Constructor: 
+17:15:47.654 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:15:47.773 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:15:48.156 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+17:15:48.171 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:15:48.177 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:15:48.181 [main] - ResultadosBusquedaPage - Constructor: 
+17:15:48.188 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:15:48.194 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:15:48.396 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Redline
+Martillo carpintero 24 Oz acero
+(7)
+$9.646C/U
+Agregar al carro
+17:15:48.406 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:15:48.414 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:15:48.882 [main] - ArticuloPage - Constructor
+17:15:48.888 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:15:48.893 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:17:23.647 [main] - Inicializando ChromeDriver
+17:17:24.451 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:17:24.506 [main] - Título de página: Sodimac.cl | CMR Days
+17:17:24.571 [main] - HomePage - Constructor: 
+17:17:24.610 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:17:24.924 [main] - Título de página: Sodimac.cl | CMR Days
+17:17:24.925 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+17:17:24.938 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+17:17:24.953 [main] - Título de página: Sodimac.cl | CMR Days
+17:17:28.750 [main] - ResultadosBusquedaPage - Constructor: 
+17:17:29.119 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:17:29.474 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:17:29.525 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+17:17:29.530 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:17:29.539 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:17:29.542 [main] - ResultadosBusquedaPage - Constructor: 
+17:17:29.547 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:17:29.554 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:17:29.733 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Ubermann
+Martillo carpintero 16 Oz acero
+(8)
+$12.580C/U
+Agregar al carro
+17:17:29.747 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+17:17:29.754 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+17:17:40.602 [main] - ArticuloPage - Constructor
+17:17:40.690 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/900281/Martillo-carpintero-16-Oz-acero/900281
+17:17:40.720 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+17:17:41.408 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+17:17:41.413 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/900281/Martillo-carpintero-16-Oz-acero/900281
+17:17:41.423 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+17:17:41.424 [main] - ArticuloPage - Constructor
+17:17:41.429 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/900281/Martillo-carpintero-16-Oz-acero/900281
+17:17:41.441 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+17:17:42.587 [main] - ArticuloPage.AssertNullField - 
+Martillos y Combos
+Acero y fibra de vidrio
+Ubermann
+3 cm
+34 cm
+2.5 cm
+16 oz
+Bola
+Acero
+Profesional
+100 años
+Empuñadura ergonómica y soporte magnético para clavo
+34 cm
+3 cm
+14 cm
+.83 kg
+Acero
+Martillos carpintero
+Martillos y Combos
+Huechuraba-La Reina-Maipú-La Florida-Cerrillos
+17:17:42.592 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/900281/Martillo-carpintero-16-Oz-acero/900281
+17:17:42.597 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl

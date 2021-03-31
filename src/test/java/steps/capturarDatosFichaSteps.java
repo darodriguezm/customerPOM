@@ -16,7 +16,7 @@ public class capturarDatosFichaSteps {
 
     @Given ("^quiero ingresar al portal de sodimac$")
     public void ingresarAlPortal() {
-    	this.driver = SodimacWebHelpers.initChromeDriver(driver, "https://www.sodimac.cl/sodimac-cl/");
+    	this.driver = SodimacWebHelpers.initChromeDriver(this.driver, "https://www.sodimac.cl/sodimac-cl/");
     	
     }
     
@@ -45,11 +45,12 @@ public class capturarDatosFichaSteps {
     	articuloPage.AssertNullFields();
     	
     }
-    
-    @After
-    public void closeChrome() {
-    	this.driver.close();
-    	
-    }
+	
+	@After
+	public void closeChrome() {
+		this.driver.close();
+	  
+	}
+	 
     
 }

@@ -13,4 +13,4 @@ Feature: Captura de ficha tecnica de producto
     
     Examples:
     | articulo  |
-    | resposera |
+    | martillo |
