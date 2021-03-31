@@ -30,3 +30,7 @@ Instalar cliente maven:
 1. Descargar respositorio
 2. Ingresar a la ruta raíz del proyecto descargado y lanzar el comando:
 ```mvn test```
+
+## Salidas
+La ejecución del test automatizado genera salidas de texto plano en el siguiente archivo:
+log4j/log.out
