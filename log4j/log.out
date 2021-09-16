@@ -834,3 +834,1006 @@ Martillos y Combos
 Huechuraba-La Reina-Maipú-La Florida-Cerrillos
 17:17:42.592 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/900281/Martillo-carpintero-16-Oz-acero/900281
 17:17:42.597 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+22:13:43.057 [main] - Inicializando ChromeDriver
+22:13:43.543 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:13:43.559 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:13:43.644 [main] - HomePage - Constructor: 
+22:13:43.684 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:13:43.690 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:13:43.690 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+22:13:43.705 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:13:43.898 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:13:48.811 [main] - ResultadosBusquedaPage - Constructor: 
+22:13:48.983 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:13:49.101 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:13:49.514 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+22:13:49.521 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:13:49.529 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:13:49.533 [main] - ResultadosBusquedaPage - Constructor: 
+22:13:49.541 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:13:49.547 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:13:49.951 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Karson
+Martillo carpintero 12 Oz acero
+(11)
+$4.490C/U
+Agregar al carro
+22:13:49.960 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:13:49.983 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:13:54.362 [main] - ArticuloPage - Constructor
+22:13:54.388 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2286262/Martillo-carpintero-12-Oz-acero/2286262
+22:13:54.393 [main] - Título de página: Martillo carpintero 12 Oz acero - Sodimac.cl
+22:13:54.615 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+22:13:54.623 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2286262/Martillo-carpintero-12-Oz-acero/2286262
+22:13:54.629 [main] - Título de página: Martillo carpintero 12 Oz acero - Sodimac.cl
+22:13:54.630 [main] - ArticuloPage - Constructor
+22:13:54.634 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2286262/Martillo-carpintero-12-Oz-acero/2286262
+22:13:54.650 [main] - Título de página: Martillo carpintero 12 Oz acero - Sodimac.cl
+22:13:55.574 [main] - ArticuloPage.AssertNullField - 
+Acero/Fibra de vidrio
+Martillos y Combos
+Karson
+18.3 cm
+33.5 cm
+2.7 cm
+12 oz
+Uña
+Acero
+Amateur
+3 meses
+Mango madera
+32 cm
+12 cm
+2.5 cm
+.56 kg
+Fibra de vidrio
+Martillos carpintero
+Martillos y Combos
+Huechuraba-La Reina-La Florida-Cerrillos
+22:13:55.578 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/2286262/Martillo-carpintero-12-Oz-acero/2286262
+22:13:55.583 [main] - Título de página: Martillo carpintero 12 Oz acero - Sodimac.cl
+22:16:53.284 [main] - Inicializando ChromeDriver
+22:16:53.682 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:16:53.710 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:16:53.781 [main] - HomePage - Constructor: 
+22:16:53.809 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:16:53.824 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:16:53.824 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+22:16:53.836 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:16:53.843 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:16:58.181 [main] - ResultadosBusquedaPage - Constructor: 
+22:16:58.564 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:16:58.873 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:16:58.967 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+22:16:58.972 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:16:58.982 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:16:58.991 [main] - ResultadosBusquedaPage - Constructor: 
+22:16:58.997 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:16:59.002 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:16:59.281 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Stanley
+Martillo cabo fibra vidrio 20 oz
+(3)
+$7.990C/U
+Agregar al carro
+22:16:59.289 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:16:59.299 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:17:03.708 [main] - ArticuloPage - Constructor
+22:17:03.796 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/5432103/Martillo-cabo-fibra-vidrio-20-oz/5432103
+22:17:03.941 [main] - Título de página: Martillo cabo fibra vidrio 20 oz - Sodimac.cl
+22:19:00.296 [main] - Inicializando ChromeDriver
+22:19:00.590 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:19:00.607 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:19:00.682 [main] - HomePage - Constructor: 
+22:19:00.722 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:19:00.727 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:19:00.727 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+22:19:00.740 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:19:00.867 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:19:04.320 [main] - ResultadosBusquedaPage - Constructor: 
+22:19:04.595 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:19:04.688 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:19:04.999 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+22:19:05.003 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:19:05.010 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:19:05.013 [main] - ResultadosBusquedaPage - Constructor: 
+22:19:05.018 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:19:05.023 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:19:05.200 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+BAHCO
+Martillo Bola 16 oz
+(0)
+$10.990C/U
+Agregar al carro
+22:19:05.205 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:19:05.211 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:19:05.747 [main] - ArticuloPage - Constructor
+22:19:05.751 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:19:05.756 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:21:09.882 [main] - Inicializando ChromeDriver
+22:21:10.567 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:21:10.611 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:21:10.695 [main] - HomePage - Constructor: 
+22:21:10.734 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:21:10.746 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:21:10.746 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+22:21:10.951 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:21:10.961 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:21:14.598 [main] - ResultadosBusquedaPage - Constructor: 
+22:21:14.959 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:21:15.307 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:21:15.384 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+22:21:15.389 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:21:15.398 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:21:15.403 [main] - ResultadosBusquedaPage - Constructor: 
+22:21:15.409 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:21:15.415 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:21:15.614 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Stanley
+Martillo básico mango madera 20 oz
+(6)
+$5.990C/U
+Agregar al carro
+22:21:15.646 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:21:15.653 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:21:16.195 [main] - ArticuloPage - Constructor
+22:21:16.201 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:21:16.271 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:24:15.240 [main] - Inicializando ChromeDriver
+22:24:16.448 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:24:16.472 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:24:16.562 [main] - HomePage - Constructor: 
+22:24:16.608 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:24:16.616 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:24:16.617 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+22:24:16.923 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:24:16.946 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:24:18.191 [main] - ResultadosBusquedaPage - Constructor: 
+22:24:18.211 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:24:18.232 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:24:22.006 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+22:24:22.177 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:24:22.275 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:24:22.281 [main] - ResultadosBusquedaPage - Constructor: 
+22:24:23.200 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:24:23.269 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:24:23.533 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Stanley
+Martillo bola 24 Oz acero
+(0)
+$8.390C/U
+Agregar al carro
+22:24:23.602 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:24:23.635 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:24:28.810 [main] - ArticuloPage - Constructor
+22:24:28.908 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/10504X/Martillo-bola-24-Oz-acero/10504X
+22:24:28.913 [main] - Título de página: Martillo bola 24 Oz acero - Sodimac.cl
+22:24:28.956 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+22:24:28.962 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/10504X/Martillo-bola-24-Oz-acero/10504X
+22:24:28.969 [main] - Título de página: Martillo bola 24 Oz acero - Sodimac.cl
+22:24:28.972 [main] - ArticuloPage - Constructor
+22:24:28.978 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/10504X/Martillo-bola-24-Oz-acero/10504X
+22:24:28.984 [main] - Título de página: Martillo bola 24 Oz acero - Sodimac.cl
+22:24:29.848 [main] - ArticuloPage.AssertNullField - 
+Stanley
+4 cm
+39.5 cm
+4 cm
+24 oz
+Acero/Madera
+Bola
+Acero
+Profesional
+De por vida
+Cabeza pulida y fija con 2 cuñas, mango madera
+40 cm
+3 cm
+12 cm
+1.02 kg
+Madera
+Martillos bola
+Huechuraba-Quilicura-Quilín
+22:24:29.855 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/10504X/Martillo-bola-24-Oz-acero/10504X
+22:24:29.860 [main] - Título de página: Martillo bola 24 Oz acero - Sodimac.cl
+22:48:15.293 [main] - Inicializando ChromeDriver
+22:48:15.688 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:48:15.702 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:48:15.793 [main] - HomePage - Constructor: 
+22:48:15.843 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:48:16.193 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:48:16.194 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+22:48:16.258 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:48:16.265 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:48:21.347 [main] - ResultadosBusquedaPage - Constructor: 
+22:48:21.543 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:48:21.627 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:48:22.128 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+22:48:22.133 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:48:22.139 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:48:22.143 [main] - ResultadosBusquedaPage - Constructor: 
+22:48:22.149 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:48:22.155 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:48:22.344 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Redline
+Martillo mini 8 Oz
+(7)
+$4.470C/U
+Agregar al carro
+22:48:22.350 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:48:22.357 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:48:28.974 [main] - ArticuloPage - Constructor
+22:48:29.120 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/3674967/Martillo-mini-8-Oz/3674967
+22:48:29.221 [main] - Título de página: Martillo mini 8 Oz - Sodimac.cl
+22:50:36.853 [main] - Inicializando ChromeDriver
+22:50:37.250 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:50:37.257 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:50:37.342 [main] - HomePage - Constructor: 
+22:50:37.355 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:50:37.366 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:50:37.366 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+22:50:37.388 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+22:50:37.434 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+22:50:41.336 [main] - ResultadosBusquedaPage - Constructor: 
+22:50:41.754 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:50:42.339 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:50:42.414 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+22:50:42.421 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:50:42.427 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:50:42.433 [main] - ResultadosBusquedaPage - Constructor: 
+22:50:42.439 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:50:42.445 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:50:42.673 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Redline
+Martillo carpintero 16 Oz acero
+(3)
+$9.670C/U
+Agregar al carro
+22:50:42.710 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+22:50:42.718 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+22:50:43.909 [main] - ArticuloPage - Constructor
+22:50:43.999 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127264/Martillo-carpintero-16-Oz-acero/127264
+22:50:44.195 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+22:50:47.657 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+22:50:47.685 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127264/Martillo-carpintero-16-Oz-acero/127264
+22:50:47.700 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+22:50:47.703 [main] - ArticuloPage - Constructor
+22:50:47.799 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127264/Martillo-carpintero-16-Oz-acero/127264
+22:50:47.902 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+22:50:48.762 [main] - ArticuloPage.AssertNullField - 
+Acero y madera
+Martillos y Combos
+Redline
+2 cm
+32.4 cm
+0.13 cm
+16 oz
+Uña
+Acero
+Amateur
+100 años
+Mango de madera, ergonómico y base de goma protectora.
+34 cm
+3 cm
+13 cm
+.7 kg
+Madera
+Martillos carpintero
+Martillos y Combos
+La Florida-Cerrillos
+22:50:48.768 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127264/Martillo-carpintero-16-Oz-acero/127264
+22:50:48.773 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+23:11:31.986 [main] - Inicializando ChromeDriver
+23:11:32.432 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:11:32.438 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:11:32.498 [main] - HomePage - Constructor: 
+23:11:32.579 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:11:32.596 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:11:32.596 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+23:11:32.755 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:11:32.761 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:11:36.918 [main] - ResultadosBusquedaPage - Constructor: 
+23:11:37.103 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:11:37.206 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:11:37.581 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+23:11:37.587 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:11:37.593 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:11:37.598 [main] - ResultadosBusquedaPage - Constructor: 
+23:11:37.603 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:11:37.609 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:11:37.900 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Redline
+Martillo carpintero 16 Oz acero
+(3)
+$9.670C/U
+Agregar al carro
+23:11:37.908 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:11:37.916 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:11:42.743 [main] - ArticuloPage - Constructor
+23:11:42.868 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127264/Martillo-carpintero-16-Oz-acero/127264
+23:11:42.996 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+23:11:43.049 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+23:11:43.055 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127264/Martillo-carpintero-16-Oz-acero/127264
+23:11:43.061 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+23:11:43.064 [main] - ArticuloPage - Constructor
+23:11:43.071 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127264/Martillo-carpintero-16-Oz-acero/127264
+23:11:43.077 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+23:11:44.047 [main] - ArticuloPage.AssertNullField - 
+Acero y madera
+Martillos y Combos
+Redline
+2 cm
+32.4 cm
+0.13 cm
+16 oz
+Uña
+Acero
+Amateur
+100 años
+Mango de madera, ergonómico y base de goma protectora.
+34 cm
+3 cm
+13 cm
+.7 kg
+Madera
+Martillos carpintero
+Martillos y Combos
+La Florida-Cerrillos
+23:11:44.055 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127264/Martillo-carpintero-16-Oz-acero/127264
+23:11:44.059 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+23:24:45.053 [main] - Inicializando ChromeDriver
+23:24:45.478 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:24:45.489 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:24:45.536 [main] - HomePage - Constructor: 
+23:24:45.605 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:24:45.610 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:24:45.610 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+23:24:45.625 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:24:45.636 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:24:50.428 [main] - ResultadosBusquedaPage - Constructor: 
+23:24:51.292 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:24:51.347 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:24:51.539 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+23:24:51.547 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:24:51.554 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:24:51.564 [main] - ResultadosBusquedaPage - Constructor: 
+23:24:51.573 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:24:51.580 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:24:51.823 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Redline
+Martillo carpintero 13 Oz acero
+(4)
+$4.190C/U
+Agregar al carro
+23:24:51.849 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:24:51.857 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:24:56.930 [main] - ArticuloPage - Constructor
+23:24:56.994 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/267465/Martillo-carpintero-13-Oz-acero/267465
+23:24:57.142 [main] - Título de página: Martillo carpintero 13 Oz acero - Sodimac.cl
+23:24:57.211 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+23:24:57.218 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/267465/Martillo-carpintero-13-Oz-acero/267465
+23:24:57.229 [main] - Título de página: Martillo carpintero 13 Oz acero - Sodimac.cl
+23:24:57.230 [main] - ArticuloPage - Constructor
+23:24:57.239 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/267465/Martillo-carpintero-13-Oz-acero/267465
+23:24:57.245 [main] - Título de página: Martillo carpintero 13 Oz acero - Sodimac.cl
+23:24:58.287 [main] - ArticuloPage.AssertNullField - 
+Acero/Madera
+Martillos y Combos
+Redline
+12 cm
+30 cm
+0.9 cm
+13 oz
+Uña
+Acero
+Amateur
+100 años
+Mango de madera, ergonómico y base de goma protectora.
+13 cm
+2 cm
+31 cm
+.56 kg
+Madera
+Martillos carpintero
+Martillos y Combos
+San Miguel-Huechuraba-La Reina-Maipú-La Florida
+23:24:58.292 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/267465/Martillo-carpintero-13-Oz-acero/267465
+23:24:58.296 [main] - Título de página: Martillo carpintero 13 Oz acero - Sodimac.cl
+23:27:39.925 [main] - Inicializando ChromeDriver
+23:27:40.304 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:27:40.322 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:27:40.374 [main] - HomePage - Constructor: 
+23:27:40.406 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:27:40.411 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:27:40.411 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+23:27:40.426 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:27:40.463 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:27:44.997 [main] - ResultadosBusquedaPage - Constructor: 
+23:27:45.299 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:27:45.644 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:27:45.784 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+23:27:45.807 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:27:45.817 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:27:45.824 [main] - ResultadosBusquedaPage - Constructor: 
+23:27:45.952 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:27:45.961 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:27:46.213 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Stanley
+Martillo básico mango madera 20 oz
+(6)
+$5.990C/U
+Agregar al carro
+23:27:46.218 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:27:46.224 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:27:50.660 [main] - ArticuloPage - Constructor
+23:27:50.730 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/5432111/Martillo-basico-mango-madera-20-oz/5432111
+23:27:50.736 [main] - Título de página: Martillo básico mango madera 20 oz - Sodimac.cl
+23:27:50.798 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+23:27:50.803 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/5432111/Martillo-basico-mango-madera-20-oz/5432111
+23:27:50.811 [main] - Título de página: Martillo básico mango madera 20 oz - Sodimac.cl
+23:27:50.815 [main] - ArticuloPage - Constructor
+23:27:50.820 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/5432111/Martillo-basico-mango-madera-20-oz/5432111
+23:27:50.828 [main] - Título de página: Martillo básico mango madera 20 oz - Sodimac.cl
+23:27:51.624 [main] - ArticuloPage.AssertNullField - 
+Stanley
+14 cm
+11 cm
+2.9 cm
+20 oz
+Acero SAE 1045
+Uña
+Acero
+Amateur
+De por vida
+37.2 cm
+11 cm
+14 cm
+4.3 kg
+Madera
+Martillo
+Todas las tiendas
+23:27:51.630 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/5432111/Martillo-basico-mango-madera-20-oz/5432111
+23:27:51.639 [main] - Título de página: Martillo básico mango madera 20 oz - Sodimac.cl
+23:31:08.860 [main] - Inicializando ChromeDriver
+23:31:09.417 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:31:09.429 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:31:09.534 [main] - HomePage - Constructor: 
+23:31:09.578 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:31:09.583 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:31:09.583 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+23:31:09.599 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:31:09.605 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:31:13.481 [main] - ResultadosBusquedaPage - Constructor: 
+23:31:13.839 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:31:14.290 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:31:14.621 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+23:31:14.628 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:31:14.637 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:31:14.643 [main] - ResultadosBusquedaPage - Constructor: 
+23:31:14.756 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:31:14.772 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:31:15.031 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Stanley
+Martillo bola 24 Oz acero
+(0)
+$8.390C/U
+Agregar al carro
+23:31:15.039 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:31:15.046 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:31:15.661 [main] - ArticuloPage - Constructor
+23:31:15.669 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:31:15.679 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:32:24.888 [main] - Inicializando ChromeDriver
+23:32:25.499 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:32:25.507 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:32:25.584 [main] - HomePage - Constructor: 
+23:32:25.674 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:32:25.685 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:32:25.685 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+23:32:25.856 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:32:25.861 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:32:29.429 [main] - ResultadosBusquedaPage - Constructor: 
+23:32:29.608 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:32:29.713 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:32:30.110 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+23:32:30.125 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:32:30.132 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:32:30.148 [main] - ResultadosBusquedaPage - Constructor: 
+23:32:30.157 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:32:30.164 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:32:30.436 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Redline
+Martillo bola 12 Oz acero
+(1)
+$5.190C/U
+Agregar al carro
+23:32:30.447 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:32:30.456 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:32:41.438 [main] - ArticuloPage - Constructor
+23:32:41.529 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127930/Martillo-bola-12-Oz-acero/127930
+23:32:41.560 [main] - Título de página: Martillo bola 12 Oz acero - Sodimac.cl
+23:32:41.763 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+23:32:41.772 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127930/Martillo-bola-12-Oz-acero/127930
+23:32:41.778 [main] - Título de página: Martillo bola 12 Oz acero - Sodimac.cl
+23:32:41.783 [main] - ArticuloPage - Constructor
+23:32:41.794 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127930/Martillo-bola-12-Oz-acero/127930
+23:32:41.801 [main] - Título de página: Martillo bola 12 Oz acero - Sodimac.cl
+23:32:42.774 [main] - ArticuloPage.AssertNullField - 
+Acero y fibra de vidrio
+Martillos y Combos
+Redline
+9.50 cm
+29 cm
+1.8 cm
+12 oz
+Bola
+Acero
+Amateur
+100 años
+Mango de fibra con goma antideslizante
+10 cm
+3 cm
+29 cm
+.62 kg
+Fibra de vidrio
+Martillos bola
+Martillos y Combos
+Maipú
+23:32:42.778 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127930/Martillo-bola-12-Oz-acero/127930
+23:32:42.783 [main] - Título de página: Martillo bola 12 Oz acero - Sodimac.cl
+23:49:55.328 [main] - Inicializando ChromeDriver
+23:49:55.718 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:49:55.726 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:49:55.776 [main] - HomePage - Constructor: 
+23:49:55.844 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:49:55.850 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:49:55.850 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+23:49:56.013 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:49:56.021 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:49:59.715 [main] - ResultadosBusquedaPage - Constructor: 
+23:49:59.869 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:49:59.959 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:50:00.268 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+23:50:00.277 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:50:00.282 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:50:00.287 [main] - ResultadosBusquedaPage - Constructor: 
+23:50:00.293 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:50:00.305 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:50:00.464 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Redline
+Martillo bola 16 Oz acero
+(2)
+$6.450C/U
+Ver producto
+23:50:00.474 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:50:00.505 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:50:00.905 [main] - ArticuloPage - Constructor
+23:50:00.984 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:50:00.994 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:55:42.409 [main] - Inicializando ChromeDriver
+23:55:42.794 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:55:42.831 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:55:42.889 [main] - HomePage - Constructor: 
+23:55:42.968 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:55:42.977 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:55:42.977 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+23:55:43.160 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+23:55:43.166 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+23:55:47.036 [main] - ResultadosBusquedaPage - Constructor: 
+23:55:47.360 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:55:47.842 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:55:47.955 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+23:55:47.961 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:55:47.970 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:55:47.976 [main] - ResultadosBusquedaPage - Constructor: 
+23:55:47.985 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:55:47.994 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:55:48.294 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Ubermann
+Martillo carpintero 16 Oz acero
+(8)
+$12.580C/U
+Agregar al carro
+23:55:48.316 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+23:55:48.324 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+23:55:54.905 [main] - ArticuloPage - Constructor
+23:55:54.969 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/900281/Martillo-carpintero-16-Oz-acero/900281
+23:55:55.122 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+23:55:55.183 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+23:55:55.192 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/900281/Martillo-carpintero-16-Oz-acero/900281
+23:55:55.199 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+23:55:55.204 [main] - ArticuloPage - Constructor
+23:55:55.212 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/900281/Martillo-carpintero-16-Oz-acero/900281
+23:55:55.218 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+23:55:56.092 [main] - ArticuloPage.AssertNullField - 
+Acero y fibra de vidrio
+Ubermann
+3 cm
+34 cm
+2.5 cm
+16 oz
+Bola
+Acero
+Profesional
+100 años
+Empuñadura ergonómica y soporte magnético para clavo
+34 cm
+3 cm
+14 cm
+.83 kg
+Acero
+Martillos carpintero
+Huechuraba-La Reina-Maipú-La Florida-Cerrillos
+23:55:56.097 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/900281/Martillo-carpintero-16-Oz-acero/900281
+23:55:56.103 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+00:01:58.951 [main] - Inicializando ChromeDriver
+00:01:59.425 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:01:59.465 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:01:59.520 [main] - HomePage - Constructor: 
+00:01:59.583 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:01:59.589 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:01:59.589 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+00:01:59.604 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:01:59.611 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:02:03.508 [main] - ResultadosBusquedaPage - Constructor: 
+00:02:03.655 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:02:03.753 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:02:04.069 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+00:02:04.085 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:02:04.091 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:02:04.096 [main] - ResultadosBusquedaPage - Constructor: 
+00:02:04.103 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:02:04.115 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:02:04.285 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Redline
+Martillo tapicero 5 Oz acero
+(4)
+$4.890C/U
+Agregar al carro
+00:02:04.327 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:02:04.332 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:02:08.655 [main] - ArticuloPage - Constructor
+00:02:08.660 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/1371584/Martillo-tapicero-5-Oz-acero/1371584
+00:02:08.710 [main] - Título de página: Martillo tapicero 5 Oz acero - Sodimac.cl
+00:02:08.903 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+00:02:08.910 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/1371584/Martillo-tapicero-5-Oz-acero/1371584
+00:02:08.917 [main] - Título de página: Martillo tapicero 5 Oz acero - Sodimac.cl
+00:02:08.922 [main] - ArticuloPage - Constructor
+00:02:08.929 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/1371584/Martillo-tapicero-5-Oz-acero/1371584
+00:02:08.935 [main] - Título de página: Martillo tapicero 5 Oz acero - Sodimac.cl
+00:02:09.671 [main] - ArticuloPage.AssertNullField - 
+Acero/Madera
+Martillos y Combos
+Redline
+4 cm
+10 cm
+0.3 cm
+5 oz
+Tapicero
+Acero
+Industrial
+100 años
+Herramientas de golpe cabeza fina, ideal para tapicería
+26.5 cm
+2.5 cm
+11 cm
+.35 kg
+Madera
+Martillos tapicero
+Martillos y Combos
+Huechuraba-Ñuble-La Reina-Maipú-La Florida-Cerrillos
+00:02:09.677 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/1371584/Martillo-tapicero-5-Oz-acero/1371584
+00:02:09.685 [main] - Título de página: Martillo tapicero 5 Oz acero - Sodimac.cl
+00:10:36.073 [main] - Inicializando ChromeDriver
+00:10:36.471 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:10:36.484 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:10:36.538 [main] - HomePage - Constructor: 
+00:10:36.785 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:10:36.795 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:10:36.795 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+00:10:36.823 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:10:37.047 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:10:41.148 [main] - ResultadosBusquedaPage - Constructor: 
+00:10:41.525 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:10:41.932 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:10:42.107 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+00:10:42.186 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:10:42.314 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:10:42.321 [main] - ResultadosBusquedaPage - Constructor: 
+00:10:42.328 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:10:42.345 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:10:42.583 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Ubermann
+Martillo carpintero, 25 Oz
+(7)
+$14.510C/U
+Agregar al carro
+00:10:42.593 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:10:42.602 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:10:43.475 [main] - ArticuloPage - Constructor
+00:10:43.712 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:10:43.827 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:12:52.078 [main] - Inicializando ChromeDriver
+00:12:52.624 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:12:52.634 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:12:52.697 [main] - HomePage - Constructor: 
+00:12:52.746 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:12:52.751 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:12:52.751 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+00:12:52.764 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:12:52.771 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:12:57.217 [main] - ResultadosBusquedaPage - Constructor: 
+00:12:57.983 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:12:57.990 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:12:58.072 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+00:12:58.159 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:12:58.167 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:12:58.171 [main] - ResultadosBusquedaPage - Constructor: 
+00:12:58.178 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:12:58.183 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:12:58.399 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Redline
+Martillo carpintero 16 Oz acero
+(21)
+$6.290C/U
+Agregar al carro
+00:12:58.404 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:12:58.409 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:13:03.192 [main] - ArticuloPage - Constructor
+00:13:03.300 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127256/Martillo-carpintero-16-Oz-acero/127256
+00:13:03.311 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+00:13:03.374 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+00:13:03.382 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127256/Martillo-carpintero-16-Oz-acero/127256
+00:13:03.390 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+00:13:03.396 [main] - ArticuloPage - Constructor
+00:13:03.405 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127256/Martillo-carpintero-16-Oz-acero/127256
+00:13:03.411 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+00:13:03.906 [main] - ArticuloPage.AssertNullField - 
+Redline
+950 mm
+1850 mm
+50 mm
+16 oz
+Bola
+Acero
+Amateur
+100 años
+Mango fibra con goma antideslizante
+Fibra de vidrio
+San Miguel-Huechuraba-Ñuble-La Reina-La Florida
+00:13:03.912 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/127256/Martillo-carpintero-16-Oz-acero/127256
+00:13:03.918 [main] - Título de página: Martillo carpintero 16 Oz acero - Sodimac.cl
+00:29:29.424 [main] - Inicializando ChromeDriver
+00:29:29.845 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:29:29.860 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:29:29.909 [main] - HomePage - Constructor: 
+00:29:29.979 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:29:30.000 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:29:30.000 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+00:29:30.009 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:29:30.173 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:29:34.042 [main] - ResultadosBusquedaPage - Constructor: 
+00:29:34.293 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:29:34.405 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:29:34.740 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+00:29:34.773 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:29:34.797 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:29:34.805 [main] - ResultadosBusquedaPage - Constructor: 
+00:29:34.813 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:29:34.823 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:29:35.038 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Karson
+Martillo carpintero fibra de vidrio 16 Oz
+(7)
+$3.490C/U
+Agregar al carro
+00:29:35.051 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:29:35.056 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:29:39.290 [main] - ArticuloPage - Constructor
+00:29:39.358 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/403905X/Martillo-carpintero-fibra-de-vidrio-16-Oz/403905X
+00:29:39.456 [main] - Título de página: Martillo carpintero fibra de vidrio 16 Oz - Sodimac.cl
+00:29:39.584 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+00:29:39.591 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/403905X/Martillo-carpintero-fibra-de-vidrio-16-Oz/403905X
+00:29:39.598 [main] - Título de página: Martillo carpintero fibra de vidrio 16 Oz - Sodimac.cl
+00:29:39.603 [main] - ArticuloPage - Constructor
+00:29:39.610 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/403905X/Martillo-carpintero-fibra-de-vidrio-16-Oz/403905X
+00:29:39.616 [main] - Título de página: Martillo carpintero fibra de vidrio 16 Oz - Sodimac.cl
+00:29:40.130 [main] - ArticuloPage.AssertNullField - 
+Karson
+13 cm
+33 cm
+0.13 cm
+16 oz
+Uña
+Acero
+Amateur
+3 meses
+Fibra de vidrio
+Metal, fibra de vidrio y goma
+Martillos carpintero
+Martillos y Combos
+San Miguel-Huechuraba-Ñuble-La Reina-Cerrillos
+00:29:40.135 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/403905X/Martillo-carpintero-fibra-de-vidrio-16-Oz/403905X
+00:29:40.139 [main] - Título de página: Martillo carpintero fibra de vidrio 16 Oz - Sodimac.cl
+00:34:19.855 [main] - Inicializando ChromeDriver
+00:34:20.285 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:34:20.332 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:34:20.372 [main] - HomePage - Constructor: 
+00:34:20.448 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:34:20.470 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:34:20.471 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+00:34:20.648 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:34:20.656 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:34:24.322 [main] - ResultadosBusquedaPage - Constructor: 
+00:34:24.615 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:34:25.003 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:34:25.124 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+00:34:25.132 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:34:25.139 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:34:25.144 [main] - ResultadosBusquedaPage - Constructor: 
+00:34:25.155 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:34:25.162 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:34:25.431 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+BAHCO
+MARTILLO FIBRA D/VIDRIO 20 Oz
+(5)
+$6.890C/U
+Agregar al carro
+00:34:25.438 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:34:25.446 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:34:30.150 [main] - ArticuloPage - Constructor
+00:34:30.178 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/1770535/MARTILLO-FIBRA-D-VIDRIO-20-Oz/1770535
+00:34:30.211 [main] - Título de página: MARTILLO FIBRA D/VIDRIO 20 Oz - Sodimac.cl
+00:34:30.414 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+00:34:30.421 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/1770535/MARTILLO-FIBRA-D-VIDRIO-20-Oz/1770535
+00:34:30.427 [main] - Título de página: MARTILLO FIBRA D/VIDRIO 20 Oz - Sodimac.cl
+00:34:30.431 [main] - ArticuloPage - Constructor
+00:34:30.438 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/1770535/MARTILLO-FIBRA-D-VIDRIO-20-Oz/1770535
+00:34:30.444 [main] - Título de página: MARTILLO FIBRA D/VIDRIO 20 Oz - Sodimac.cl
+00:34:31.022 [main] - ArticuloPage.AssertNullField - 
+Bahco
+13.5 cm
+33 cm
+2.9 cm
+20 oz
+Uña
+Acero
+Profesional
+1 año
+38 cm
+7 cm
+16 cm
+3.38 kg
+Fibra de vidrio
+San Miguel-La Florida
+00:34:31.027 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/1770535/MARTILLO-FIBRA-D-VIDRIO-20-Oz/1770535
+00:34:31.033 [main] - Título de página: MARTILLO FIBRA D/VIDRIO 20 Oz - Sodimac.cl
+00:53:15.878 [main] - Inicializando ChromeDriver
+00:53:16.489 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:53:16.523 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:53:16.601 [main] - HomePage - Constructor: 
+00:53:16.685 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:53:16.700 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:53:16.701 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+00:53:16.933 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:53:16.941 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:53:21.672 [main] - ResultadosBusquedaPage - Constructor: 
+00:53:21.836 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:53:21.911 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:53:22.321 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+00:53:22.327 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:53:22.334 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:53:22.339 [main] - ResultadosBusquedaPage - Constructor: 
+00:53:22.346 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:53:22.353 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:53:22.584 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Redline
+Martillo carpintero 13 Oz acero
+(4)
+$4.190C/U
+Agregar al carro
+00:53:22.589 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:53:22.595 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:53:23.006 [main] - ArticuloPage - Constructor
+00:53:23.167 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:53:23.175 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:54:29.066 [main] - Inicializando ChromeDriver
+00:54:29.849 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:54:29.875 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:54:29.946 [main] - HomePage - Constructor: 
+00:54:30.011 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:54:30.025 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:54:30.025 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+00:54:30.040 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:54:30.224 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:54:33.552 [main] - ResultadosBusquedaPage - Constructor: 
+00:54:33.917 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:54:34.231 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:54:34.325 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+00:54:34.331 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:54:34.341 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:54:34.348 [main] - ResultadosBusquedaPage - Constructor: 
+00:54:34.357 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:54:34.431 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:54:34.603 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Redline
+Martillo carpintero 13 Oz acero
+(10)
+$7.820C/U
+Agregar al carro
+00:54:34.609 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:54:34.617 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:54:39.019 [main] - ArticuloPage - Constructor
+00:54:39.155 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/167460/Martillo-carpintero-13-Oz-acero/167460
+00:54:39.251 [main] - Título de página: Martillo carpintero 13 Oz acero - Sodimac.cl
+00:55:37.013 [main] - Inicializando ChromeDriver
+00:55:37.438 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:55:37.453 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:55:37.519 [main] - HomePage - Constructor: 
+00:55:37.587 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:55:37.594 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:55:37.594 [main] - HomePage.realizarBusqueda - Buscando producto: martillo
+00:55:37.689 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/
+00:55:37.934 [main] - Título de página: Sodimac.cl | Todo en Hogar y Construcción
+00:55:41.662 [main] - ResultadosBusquedaPage - Constructor: 
+00:55:41.832 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:55:41.933 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:55:42.295 [main] - ResultadoBusquedaPage.AssertPage - valor esperado: Resultados de búsqueda para "martillo", valor actual: Resultados de búsqueda para "martillo"
+00:55:42.305 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:55:42.310 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:55:42.317 [main] - ResultadosBusquedaPage - Constructor: 
+00:55:42.323 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:55:42.330 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:55:42.501 [main] - ResultadosBusquedaPage.SeleccionarProductoAleatorio - Producto aleatorio seleccionado: 
+Comparar
+Ubermann
+Martillo carpintero 20 Oz acero
+(17)
+$8.957C/U
+Agregar al carro
+00:55:42.531 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/search?Ntt=martillo
+00:55:42.536 [main] - Título de página: Bienvenido a Sodimac.com. Todo para construir y renovar tu hogar con los precios bajos siempre
+00:55:46.337 [main] - ArticuloPage - Constructor
+00:55:46.454 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/90029X/Martillo-carpintero-20-Oz-acero/90029X
+00:55:46.697 [main] - Título de página: Martillo carpintero 20 Oz acero - Sodimac.cl
+00:55:46.780 [main] - ArticuloPage.AssertPage - valor esperado: Descripción, valor actual: Descripción
+00:55:46.791 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/90029X/Martillo-carpintero-20-Oz-acero/90029X
+00:55:46.799 [main] - Título de página: Martillo carpintero 20 Oz acero - Sodimac.cl
+00:55:46.805 [main] - ArticuloPage - Constructor
+00:55:46.813 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/90029X/Martillo-carpintero-20-Oz-acero/90029X
+00:55:46.824 [main] - Título de página: Martillo carpintero 20 Oz acero - Sodimac.cl
+00:55:47.429 [main] - ArticuloPage.AssertNullField - 
+Ubermann
+40 cm
+21 cm
+32,8 cm
+20 oz
+Bola
+Acero
+Profesional
+100 años
+Empuñadura ergonómica y soporte magnético para clavo
+Fibra de vidrio
+Huechuraba-La Reina-Maipú
+00:55:47.436 [main] - Url actual: https://www.sodimac.cl/sodimac-cl/product/90029X/Martillo-carpintero-20-Oz-acero/90029X
+00:55:47.443 [main] - Título de página: Martillo carpintero 20 Oz acero - Sodimac.cl
